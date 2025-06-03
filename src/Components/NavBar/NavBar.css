@@ -109,9 +109,6 @@ margin-right: 60px;
   color: #000000;
   text-decoration: none;
 }
-/* .mainLinksDiv div a:hover {
-  text-decoration: underline;
-} */
 .loginLogoutDiv {
   display: flex;
   width: 25%;
@@ -123,7 +120,6 @@ margin-right: 60px;
   flex-direction: column;
   overflow:hidden;
   padding-right: 10px;
-  padding-top: 46px;
 }
 .menuBtn {
   width: 30%;
